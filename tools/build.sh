@@ -1,5 +1,5 @@
 #!/bin/sh
-# Builds a DX Garden Stations release into stations/.
+# Builds a Ensō Radio Stations release into stations/.
 #
 #   tools/build.sh 2026.10.23
 #

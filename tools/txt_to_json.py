@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Converts a DX Garden stations.txt into JSON.
+"""Converts a Ensō Radio stations.txt into JSON.
 
     python3 tools/txt_to_json.py stations/stations.txt stations/stations.json
 

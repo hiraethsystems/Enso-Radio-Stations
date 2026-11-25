@@ -1,6 +1,8 @@
-# DX Garden Stations
+# Ensō Radio Stations
 
-An open directory of internet radio stations with their places on the map, made for [DX Garden](https://github.com/hiraethclub/DX-Garden) and free for anything else that wants it.
+*Formerly DX Garden Stations (renamed 2026-11-25). Files from releases up to 2026.10.24 still carry the old name in their header comments; the next release uses the new one.*
+
+An open directory of internet radio stations with their places on the map, made for [Ensō Radio](https://github.com/hiraethsystems/Enso-Radio) and free for anything else that wants it.
 
 Each station has a name, a stream URL, a country, a town, coordinates, genres and its codec and bitrate. Every list is built from one dated snapshot of [Radio Browser](https://www.radio-browser.info), a community station directory, then cleaned up: dead and HLS-only streams dropped, positions checked against country borders, swapped or sign-flipped coordinates fixed, and towns filled in.
 
